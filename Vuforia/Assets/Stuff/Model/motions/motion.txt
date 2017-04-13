@@ -1,0 +1,4 @@
+Jog	ChrMarine@Jog01		ChrBackovic.sk
+Guitar	ChrBrad@Guitar01	ChrBrad.sk
+Kick	ChrGarza@IdleFight01_KickForwardHigh01		ChrGarza.sk
+Punch	ChrGarza@IdleFight01_PunchForwardMediumFar01		ChrGarza.sk
